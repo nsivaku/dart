@@ -1,6 +1,6 @@
 # DART: Leveraging Multi-Agent Disagreement for Tool Recruitment in Multimodal Reasoning
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2512...)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2512.07132)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [Nithin Sivakumaran](https://nsivaku.github.io/) | [Justin Chih-Yao Chen](https://dinobby.github.io/) | [David Wan](https://meetdavidwan.github.io/) | [Yue Zhang](https://zhangyuejoslin.github.io/) | [Jaehong Yoon](https://jaehong31.github.io/) | [Elias Stengel-Eskin](https://esteng.github.io/) | [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
@@ -55,7 +55,7 @@ python dart.py \
 @article{sivaku2025dart,
       title={DART: Leveraging Multi-Agent Disagreement forTool Recruitment in Multimodal Reasoning}, 
       author={Nithin Sivakumaran and Justin Chih-Yao Chen and David Wan and Yue Zhang and Jaehong Yoon and Elias Stengel-Eskin and Mohit Bansal},
-      journal={arXiv preprint arXiv:2512.},
+      journal={arXiv preprint arXiv:2512.07132},
       year={2025}
 }
 ```
